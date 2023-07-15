@@ -1,0 +1,4 @@
+pandas 
+numpy
+seaborn == 0.12.2
+-e .
